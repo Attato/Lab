@@ -121,5 +121,5 @@ package.json
   }
 }
 ```
-Первычные данные о сотрудниках лаболатории находяться [тут](https://github.com/KoffeMeow/Lab/blob/main/src/assets/employees.json).
+Первичные данные о сотрудниках лаболатории находяться [тут](https://github.com/KoffeMeow/Lab/blob/main/src/assets/employees.json).
 Сайт рапологается по [ссылке](https://koffemeow.github.io/Lab/).
